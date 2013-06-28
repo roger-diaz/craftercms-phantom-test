@@ -1,0 +1,5 @@
+.project
+.jsdtscope
+.settings/**
+target/**
+.classpath
